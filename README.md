@@ -1,5 +1,4 @@
-<h1 align="center"> I am Chandra Prakash</h1>
-<h3 align="center">Websites should look good from the inside and out.</h3>
+<p><img align="center" src="https://i.postimg.cc/pXSRSpQM/Colorful-Modern-Illustrated-Learning-and-Technology-School-Project-Education-Presentation.png" alt="chandra601" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandra601&label=Profile%20views&color=0e75b6&style=flat" alt="chandra601" /> </p>
 
